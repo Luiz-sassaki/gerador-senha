@@ -1,20 +1,21 @@
 ﻿# -Gerador de senha
-É um projeto onde busquei desenvolver
+É capaz de criar uma senha de 5 até 25 caracteres composto por letras e números.
 
 ## Descrição
-O jogo 
+Nosso gerador de senhas é uma ferramenta eficiente e prática para criar senhas fortes e seguras de forma rápida. Ele utiliza combinações aleatórias de letras maiúsculas, minúsculas, números e caracteres especiais para garantir máxima segurança contra invasões e ataques de força bruta.
 
 
 ## Tecnologias usadas
 
-* ![GDSCRIPT](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
-
+* ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+* ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+* ![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)  
 
 
  ## Gerador de senha na prática
 
 <B>TELA INICIAL</B><br>
-<img src="meu-primeiro-jogo-2d/images/fazenda.png" alt="tela inicial">
+<img src="images/gerador-senha.png" alt="tela inicial">
 
 
 ## Desenvolvedor
